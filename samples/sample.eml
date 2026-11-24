@@ -1,0 +1,15 @@
+Return-Path: <noreply@random-site.example>
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+From: "PayPal Service" <service@paypal.com>
+Reply-To: <help@another-site.example>
+To: victim@example.com
+Subject: Your Receipt for Payment to Amazing Stuff
+Content-Type: text/plain; charset=utf-8
+
+Hello Customer,
+
+You sent a payment of $120.00 USD for gift cards.
+If you did not make this order, act now and cancel the order:
+https://is.gd/abc123
+
+Your account will be suspended within 24 hours.
